@@ -1,4 +1,36 @@
-### Hi there 👋
+### Hi 👋, I'm Samuel Christaura Geraldy
+I am an informatics student who is interested in the world of technology and programming. Here are some of the programming languages I use
+![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
+![Python](https://img.shields.io/badge/-python-282A36?style=flat&logo=python)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
+
+
+
+## My Github Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Xractz&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Xractz/Xractz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xractz&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Xractz/Xractz)
+[![Streak Stats Langs](https://github-readme-streak-stats.herokuapp.com/?user=Xractz&theme=dark&background=282A36&ring=57C7FF&fire=57C7FF&dates=686868&currStreakNum=9AEDFE&sideNums=57C7FF&currStreakLabel=9AEDFE&sideLabels=9AEDFE&stroke=57C7FF&border=282A36)](https://github.com/Xractz/Xractz)
+
+
+
+<!--
+**Xractz/Xractz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **Xractz/Xractz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
