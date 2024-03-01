@@ -8,9 +8,9 @@ I am an informatics student who is interested in the world of technology and pro
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Xractz/Xractz/assets/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg" />
 </picture>
 
 
