@@ -1,5 +1,6 @@
 ### Hi <img src="/assets/wave.gif" width="25px" />, I'm Samuel Christaura Geraldy
-I am an informatics student who is interested in the world of technology and programming. Here are some of the programming languages I use
+I am an informatics student who is interested in the world of technology and programming. Here are some of the programming languages I use:
+
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
