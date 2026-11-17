@@ -1,56 +1,99 @@
-### Hi <img src="/assets/wave.gif" width="25px" />, I'm Samuel Christaura Geraldy
-I am an informatics student who is interested in the world of technology and programming. Here are some of the programming languages I use:
+<div align="center">
 
-![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
-![Python](https://img.shields.io/badge/-python-282A36?style=flat&logo=python)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
+# Hi, I'm Samuel Christaura Geraldy
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Informatics+Student;Data+Engineering+Intern;Interested+in+Cybersecurity;Building+Things+for+the+Web"
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
+
+## 💫 About Me
+
+- 🎓 Informatics student at Universitas Atma Jaya Yogyakarta
+- 💼 Data engineering intern at Mandiri Utama Finance, working with PySpark, Apache Iceberg, and NiFi
+- 🔐 Interested in cybersecurity and responsible disclosure, with appreciation certificates from Pakasir, KSI UAJY, and Monveo
+- 🚀 I enjoy building and experimenting with web products
+- 🌱 Always exploring new technologies and ideas
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samchristg)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark" />
+
+### Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,astro&theme=dark" />
+
+### Database & Services
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-stats-extended.vercel.app/api?username=Xractz&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github"
+/>
+
+<img
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xractz&layout=compact&langs_count=8&hide_border=true&theme=github_dark_dimmed"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="75%"
+  src="https://streak-stats.demolab.com?user=Xractz&theme=github-dark-blue&hide_border=true&border_radius=10"
+/>
+
+</div>
+
+## 🐍 Contributions
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Xractz/Xractz/main/assets/github-contribution-grid-snake.svg"
+  />
 </picture>
 
+</div>
 
+---
 
-## My Github Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Xractz&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Xractz/Xractz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xractz&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Xractz/Xractz)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samchristg&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Xractz/Xractz)
-[![Streak Stats Langs](https://github-readme-streak-stats.herokuapp.com/?user=Xractz&theme=dark&background=282A36&ring=57C7FF&fire=57C7FF&dates=686868&currStreakNum=9AEDFE&sideNums=57C7FF&currStreakLabel=9AEDFE&sideLabels=9AEDFE&stroke=57C7FF&border=282A36)](https://github.com/Xractz/Xractz)
+<div align="center">
 
+<sub>Building, learning, and shipping one project at a time.</sub>
 
-
-<!--
-**Xractz/Xractz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-**Xractz/Xractz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
